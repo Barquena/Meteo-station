@@ -1,4 +1,4 @@
-# Meteo-station
+# Powered Meteo-station
 ## Objectives
 
 ## Equipements
@@ -19,3 +19,6 @@ Eleego Uno kit : 🔗 [https://www.amazon.ca/-/fr/tutoriel-dalimentation-servomo
 
 Pressure sensor : 🔗 [https://www.amazon.ca/-/fr/barom%C3%A9trique-num%C3%A9rique-pr%C3%A9-soud%C3%A9-Raspberry-microcontr%C3%B4leurs/dp/B0CDQMFX7S/ref=sr_1_1?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1JV9TPU5UA9QU&keywords=anemometer+arduino&qid=1707357885&s=electronics&sprefix=anemometer+arduino%2Celectronics%2C99&sr=1-1-catcorr]
 
+### Battery
+
+### Case
