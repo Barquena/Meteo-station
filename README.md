@@ -1,6 +1,7 @@
-# Powered Meteo-station
+# Powered Weather-station
 ## Objectives
-
+The main goal of this project is to teach myself how to build a self-reliant system and automate it
+with an Arduino. To achieve this, I'll build a small home weather station and details the process.
 ## Equipements
 ### Archimedes Wind Turbine And Generator Combined
 Turbine 3d printer model : 🔗[https://www.thingiverse.com/thing:6140155]
