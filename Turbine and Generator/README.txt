@@ -1,0 +1,1 @@
+Archimedes Wind Turbine And Generator Combined by ThinkingandTinkering on Thingiverse: https://www.thingiverse.com/thing:6140155
